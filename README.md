@@ -126,7 +126,7 @@ Bu proje, el yazısı rakamları içeren MNIST veri setini sınıflandırmak iç
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Proje Yapısı](#proje-yapısı)
-- [Proje İçeriği Detayları](#proje-içeriği-detayları)
+- [Proje İçeriği Detayları](#proje-i̇çeriği-detayları)
 - [Sonuçlar](#sonuçlar)
 - [Katkıda Bulunma](#katkıda-bulunma)
 - [Lisans](#lisans)
